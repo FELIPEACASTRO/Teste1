@@ -11,4 +11,4 @@ Sera criada a tabela "campanha" e nela seus respectivos campos que serão  utili
 Para efetuar o start da aplicação devera ser executada a classe ApplicationStart que se encontra no pacote br.com.campanha.restful, para efetuar os testes
 JUnit  executar a classe CampanhaControllerTest que se encontra no pacote br.com.campanha.restful.integration.controller
 
-Caso necessite efetuar o teste de um GET via Browser chamar a URL http://localhost:8080/rest/campanha/ e seu respectivo id caso queira ou caso nao insira o id sera retornado no browser todos as campanhas.
+Caso necessite efetuar o teste de um GET via Browser chamar a URL http://localhost:8080/rest/campanha/ e seu respectivo id caso queira ou caso nao insira o id sera retornado no browser todos os registros.
