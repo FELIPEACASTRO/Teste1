@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Teste1
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: fcastroc
+Implementation-Vendor-Id: br.com.campanha
+Build-Jdk: 1.8.0_141
+Implementation-URL: http://projects.spring.io/spring-boot/Teste1/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
